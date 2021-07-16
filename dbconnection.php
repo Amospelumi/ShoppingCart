@@ -2,7 +2,7 @@
 //connecting to database
 $host = "localhost";
 $user = "root";
-$pass = "atm()sph3r3";
+$pass = "
 $dbname = "library";
 $con = mysqli_connect($host, $user, $pass, $dbname);
 
